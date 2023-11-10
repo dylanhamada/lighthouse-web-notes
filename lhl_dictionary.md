@@ -141,11 +141,38 @@ class Pizza {
 
 ### Client
 
+In web development, 'client side' refers to everything in a web application that is displayed or takes place on the client (end user device). This includes what the user sees, such as text, images, and the rest of the UI, along with any actions that an application performs within the user's browser.
+
+Markup languages like HTML and CSS are interpreted by the browser on the client side. In addition, many contemporary developers are including client-side processes in their application architecture and moving away from doing everything on the server side; business logic for dynamic webpages*, for instance, usually runs client side in a modern web application. Client-side processes are almost always written in JavaScript.
+
 ### Code Golfing
+
+Code golf is a type of recreational computer programming competition in which participants strive to achieve the shortest possible source code that solves a certain problem.
 
 ### Credentials
 
+In the context of web development, "credentials" typically refer to the information used to **authenticate** a user or a system. These credentials are often required to access restricted resources or perform certain actions on a website or web application.
+
+The most common types of credentials in web development are:
+
+- Username and Password
+- API Keys
+- Access Tokens
+- Session Tokens or Cookies
+- Client Certificates
+- Biometric Data
+
 ### CRUD
+
+Create, Read, Update, and Delete (CRUD) are the four basic functions that models should be able to do, at most. When we are building APIs, we want our models to provide four basic types of functionality. The model must be able to Create, Read, Update, and Delete resources. Computer scientists often refer to these functions by the acronym CRUD. A model should have the ability to perform at most these four functions in order to be complete. If an action cannot be described by one of these four operations, then it should potentially be a model of its own.
+
+### CSS
+
+CSS stands for Cascading Style Sheets. It’s a stylesheet language used to add **layout** and **visual effects** to HTML elements.
+
+CSS is used specifically for markup languages, in this case HTML. A markup language is used to apply structure to a website or text document. The “markup” in this case is a set of tags used to indicate the structure and format of the page.
+
+The “cascading” part of its name refers to how styles are inherited and applied to different elements on a web page based on their relationship to each other in the HTML document. Styles can be applied to a parent element, which will be passed down to its child elements.
 
 ### Database
 
@@ -224,6 +251,8 @@ Built-in array functions like `forEach`, `filter`, and others are examples of Hi
 
 ### Loops
 
+### Media Query
+
 ### Mocha
 
 A testing framework. Gives us the `describe` and `it` functions. Each `it` is a test, and each test should have at least one *assertion*.
@@ -260,6 +289,8 @@ module.exports = sayHelloTo;
 
 ### Ports
 
+### Preprocessor
+
 ### Promises
 
 ### Recursion
@@ -288,9 +319,13 @@ countEvenToTwelve(0)
 
 ### Repository
 
+### Responsive Design
+
 ### REST
 
 ### Routes
+
+### SASS
 
 ### Scope
 
