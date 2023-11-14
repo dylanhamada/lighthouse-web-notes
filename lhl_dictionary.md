@@ -176,6 +176,8 @@ The “cascading” part of its name refers to how styles are inherited and appl
 
 ### Database
 
+### Declarative Statements
+
 ### Dependency
 
 ### DOM
@@ -185,6 +187,8 @@ The “cascading” part of its name refers to how styles are inherited and appl
 ### Encryption
 
 Don't Repeat Yourself. The principle states that any piece of knowledge or functionality in a software system should be represented in a single place only – essentially, nothing should be repeated.
+
+### Entity Relationship Diagram
 
 ### Error Handling
 
@@ -290,6 +294,8 @@ module.exports = sayHelloTo;
 ### Ports
 
 ### Preprocessor
+
+### Primary and Foreign Keys (Relational Databases)
 
 ### Promises
 
@@ -401,6 +407,14 @@ dog.speak();
 ### Try/Catch
 
 ### Type Coercion
+
+### User Stories
+
+A way to describe a feature to implement in your app, drawn from the perspective of a user.
+
+Eg. "As a user, I would like/want to __"
+
+Each user story typically revolves around one action.
 
 ### Variable
 

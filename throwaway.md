@@ -18,11 +18,4 @@
 - check out industry events in toronto
 - check out alumni discord after the course
 
-## Alfredo Lecture November 9
-
-- The screen delay or "lag" is particularly difficult to experience when getting a lecture on front-end, because there is a lot of minimizing and maximizing windows. Sometimes the lecture video doesn't keep up with the instructor's audio.
-- Maybe students can be provided with a repo they can clone on their machines so that they can follow along even with the stream delay.
-- The lecture can be more interactive. Maybe brief pauses to allow students to answer a question and keep them engaged. If the instructor is only describing their process, it's not very engaging.
-
 ## Commit
-
