@@ -17,5 +17,3 @@
 - in-person meetups, eventbrite, and meetups.com
 - check out industry events in toronto
 - check out alumni discord after the course
-
-## Commit
