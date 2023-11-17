@@ -17,3 +17,16 @@
 - in-person meetups, eventbrite, and meetups.com
 - check out industry events in toronto
 - check out alumni discord after the course
+
+## Gwen Office Hours
+
+- Tips for Midterm (working together in a group)
+- Schedule around Christmas/New Years?
+
+- start dividing work
+  - what you're best at, versus what groupmates better at
+  - daily meetings, check-ins to see how you've progressed, what needs to be done
+  - mid-term channel where updates
+  - by next thursday, project is wrapping up and we're starting to practice presenting it
+  - have a script
+- main purpose of midterm to communicate with other coders and not only speak about code, but about prioritization and work together
